@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Epau9kRBCtMkfoH73TMpy5/FqvHuyXMrcu6lNMMifNF0prPHz9+6eaWpMOhN5Yl3bA3YiwNokCueKNwcWlvBUA==",
+  "success": true,
+  "projectFilePath": "D:\\Projetos Pessoais\\CalcularJuros\\src\\CalculoJuros.Core\\CalculoJuros.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jairo.monteiro\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
